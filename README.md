@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bot-grim
+- 👋 Hi, I’m @Human-Version
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Electrical Engineer in Diponegoro University
 - 📫 You can find me on instagram @farief_19
