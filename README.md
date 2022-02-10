@@ -1,8 +1,8 @@
 # Halo semua! 
 
-Perkenalkan nama saya **Arief Fajar**.\
+Perkenalkan nama saya **Arief Fajar**.  
 
-Saya seorang **Mahasiswa** di [Universitas Diponegoro](https://www.undip.ac.id/).\
+Saya seorang **Mahasiswa** di [Universitas Diponegoro](https://www.undip.ac.id/).  
 
 Saya sedang menempuh pendidikan Sarjana di Program Studi S1-Teknik Elektro [Teknik Elektro Undip](https://elektro.undip.ac.id/v3/)
 
